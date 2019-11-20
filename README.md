@@ -1,4 +1,4 @@
-# https-github.com-sheghun-express-typescript-Boilerplate
+# express-typescript-Boilerplate
 
 An updated typescript boilerplate for nodejs with express, majorly for building apis
 
