@@ -67,7 +67,7 @@
     "mem": "^6.0.0",
     "mysql": "^2.17.1",
     "mysql2": "^1.7.0",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "sequelize": "^5.17.2",
     "sequelize-cli": "^5.5.0",
     "typescript": "^3.6.2",
