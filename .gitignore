@@ -10,3 +10,7 @@ dist
 .DS_Store
 
 yarn-error.log
+
+*.map
+
+.DS_Store
